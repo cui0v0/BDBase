@@ -1,6 +1,6 @@
 # BDBase
 
-=
+
 部分翻译文本参考自
 《空岛生存译名标准化 Aug 23rd Edition》
 ==
