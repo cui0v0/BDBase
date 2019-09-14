@@ -826,8 +826,22 @@
   " minions placed.§r":"个仆从。",
   
   "§aUNLOCKED":"§a已解锁",
-
+  
   "§7Progress to Level <value>: <value>":"§7升至等级<target>(0)§7的进度：<target>(1)",
+  "§aAccess to ":"§a允许进入",
+  
+  "§bThe Barn":"§b谷仓",
+  "§bMushroom Desert":"§b蘑菇沙漠",
+  
+  "§a务农Skill":"§a务农技能",
+  "§a务农Level ":"§a务农等级",
+  "§eFarming Level ":"§e务农等级",
+  "§cFarming Level ":"§c务农等级",
+  "§f chance to get":"§f几率去得到",
+  "§f几率去得到 double":"§f几率去得到",
+  "§fdouble crops.":"§f双倍的作物。",
+  "§fcrops.":"§f双倍的作物。",
+  
   "§7Level <value> Rewards:":"§7等级<target>(0)奖励：",
   "§7Harvest crops and shear sheep to":"§7收割作物及剪羊毛来",
   "§7earn Farming XP!":"§7获取务农经验！",
@@ -864,7 +878,7 @@
   
   "§a务农 Collection":"§a务农收集项",
   "§a务农 Recipes":"§a务农衍生物品配方",
-  "§aFarming <value>":"§a务农<target>(0)",
+  "§aFarming ":"§a务农",
   "§7View your Farming Collection!":"§7浏览你所有的务农收集项！",
   "§7View all of the Farming Recipes":"§7浏览所有你已解锁的务农衍生物品配方！",
   "§a采矿 Collection":"§a采矿收集项",
