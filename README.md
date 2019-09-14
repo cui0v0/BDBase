@@ -1,4 +1,4 @@
-# BDBase
+# SkyBlock 翻译 mod - 翻译文本
 
 selfsbtrans.json为 [Skyblock 翻译(sbtrans)mod](https://github.com/wysb233/sbtrans) 所使用的云端翻译文文件。  
 selfsbtrans.json中部分翻译文本参考自《空岛生存译名标准化 Aug 23rd Edition》
