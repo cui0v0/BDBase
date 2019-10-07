@@ -370,11 +370,17 @@
   ", Prototype":", 游戏实验室",
   "§7Prototype":"§7游戏实验室",
   
+  "§6§lNEW HALLOWEEN MAP!":"§6§l全新的万圣节地图！",
+  
   "§7SkyBlock has finally arrived on":"§7空岛生存终于降临Hypixel服务器！",
-  "§7Hypixel! Play with friends (or":"§7单人生存或召集伙伴，",
-  "§7solo!), build your private":"§7建造你的私人岛屿，",
-  "§7islands and collect all the":"§7收集万千资源吧！",
+  "§7Hypixel! Play with friends (or":"§7单人生存或召集伙伴，建造你的",
+  "§7solo!), build your private":"§7私人岛屿，收集万千资源吧！",
+  "§7islands and collect all the":"<remove>",
   "§7items! ":"<remove>",
+  
+  "空岛生存终于降临Hypixel服务器！":"§7空岛生存终于降临Hypixel服务器！",
+  "单人生存或召集伙伴，建造你的":"§7单人生存或召集伙伴，建造你的",
+  "私人岛屿，收集万千资源吧！":"§7私人岛屿，收集万千资源吧！",
   
   "§7Jump down The Pit to instantly":"§7跳进天坑与超过50名玩家实时对决。",
   "§7fight with over 50 other":"§7Hypixel中节奏最快的PVP游戏。",
@@ -391,11 +397,21 @@
   "§cMODE§7! Play on your own or in":"§7单人游戏或组队游戏。",
   "§7teams.":"<remove>",
   
-  "§71 Murderer. 1 Detective. And a":"§71名杀手，1名侦探。",
+  "Hypixel独特的空岛战争玩法。":"§7Hypixel独特的空岛战争玩法。",
+  "特色包括死亡天使，灵魂井":"§7特色包括死亡天使，灵魂井",
+  "和§c疯狂模式§7！":"§7和§c疯狂模式§7！",
+  "单人游戏或组队游戏。":"§7单人游戏或组队游戏。",
+  
+  "§71 Murderer. 1 Detective. And a":"§71名杀手。1名侦探。",
   "§7whole lot of Innocents. Can you":"§7还有一群平民群众。",
   "§7survive this tense social game":"§7你能在这场危机四伏",
-  "§7of betrayal and murder?":"§7的背叛与谋杀中幸存吗？",
-
+  "§7of betrayal and murder?":"§7的背叛中与谋杀幸存吗？",
+  
+  "1名杀手。1名侦探。":"§71名杀手。1名侦探。",
+  "还有一群平民群众。":"§7还有一群平民群众。",
+  "你能在这场危机四伏":"§7你能在这场危机四伏",
+  "的背叛中与谋杀幸存吗？":"§7的背叛中与谋杀幸存吗？",
+  
   "§7Customize and build on your own":"§7建造并装饰属于你自己的",
   "§7personal plot, hang out with":"§7专属领地，邀请朋友们做客，",
   "§7your friends, visit other":"§7参观其他玩家的建筑，",
@@ -689,7 +705,6 @@
   "§bYou placed a minion!":"§b你放下了一个仆从！",
   "§cYou need to place this next to a minion!":"§c你需要靠近一个仆从以放置这个方块！",
   "You picked up a minion!":"§a你拿起了一个仆从！",
-  "§6§lCOLLECTION LEVEL UP":"§6§l收集项目升级",
   "§7Reward:":"§7奖励：",
   "§7Rewards:":"§7奖励：",
   "§b (Co-op)§r":"§b（合作模式）",
@@ -1245,7 +1260,19 @@
   "§7Warping using transfer token...":"§7正在使用传送令牌将你传送……",
 
   "§cThat item cannot be sold!":"§c你不能出售这个物品！",
-  "§cThis item cannot be reforged!":"§c这个物品不能被洗练！"
+  "§cThis item cannot be reforged!":"§c这个物品不能被洗练！",
+  
+  "§c在<value>失利<value>":"§c在§c<target>(0)§c失利",
+  "§f§r§6 spooked in the lobby!§r":"§6在大厅里被吓到了！",
+  "§r§cSomeone is already playing! Wait for them to finish!§r":"§c有人已经在游戏中了！等待他们先完成游戏！",
+  "§r§a§lYou found a Candy Basket! ":"§a§l你找到了一个糖果篮！",
+  "§r§e§l(§r§a§l":"§e§l（§a§l",
+  "§r§e§l)§r":"§e§l）",
+  "§e§lFind all of them to earn an §r§b§lawesome reward§r§e§l!§r":"§e§l找到它们所有以获取一个§b§l很棒的奖励§e§l！",
+  "§cYou already found this Candy Basket!":"§c你已经找到过这个糖果篮了！"
+  
+ 
+  
 
 
 
