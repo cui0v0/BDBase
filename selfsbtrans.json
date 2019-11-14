@@ -1,19 +1,19 @@
 {
-  "§7View all of your SkyBlock":"§7浏览你在所有空岛生存中的",
-  "§7progress, including your Skills,":"§7进展，包括你的技能，",
-  "§7Collections, Recipes, and more!":"§7收集项目，配方以及更多！",
-  "§aYou are playing on profile: ": "§a你正在使用的存档：",
-  "§aYour profile was changed to: ": "§a你的存档切换为：",
-  "§r§eProfile switch on cooldown! Try again in": "§r§e你存档切换过于频繁! 请等待®§r§e再试",
-  "§r§cYou don't have the required items!": "§r§c你没有解锁此物品!",
+  "§7View all of your SkyBlock":"§7查看你所有的空岛生存",
+  "§7progress, including your Skills,":"§7进度，包括进展，包括你的技能，",
+  "§7Collections, Recipes, and more!":"§7收集，配方以及更多！",
+  "§aYou are playing on profile: ": "§a你正在游玩存档：",
+  "§aYour profile was changed to: ": "§a你已切换存档至：",
+  "§r§eProfile switch on cooldown! Try again in": "§r§e你存档切换过于频繁！请等待®§r§e再试",
+  "§r§cYou don't have the required items!": "§r§c你没有解锁此物品！",
   "§r§cYou haven't found this item yet!": "§r§c你没有找到过此物品",
   "§r§cYou haven't unlocked that recipe!": "§r§c你没有解锁此物品配方",
 
-  "§eClick to open!": "§e点击打开!",
+  "§eClick to open!": "§e点击打开！",
   "§7Recipes Unlocked: ":"§7已解锁的配方：",
   "§7Trades Unlocked: ":"§7已解锁的交易：",
   "§7Collection Unlocked: ":"§7已解锁的收集项：",
-  "§aQuest Log":"§a任务日志",
+  "§aCalendar and Events":"§a日历与活动",
   "§aTrades":"§a交易",
   "§aRecipe Book":"§a配方书",
   "§aCrafting Table":"§a工作台",
@@ -31,7 +31,7 @@
   "§7settings.":"§7空岛生存设置。",
   
   "§r§f§lWelcome to SkyBlock,": "§r§f§l欢迎来到空岛生存,§r<center>",
-  "§r§eThis is your island! The SkyBlock§r": "§r§e这是你的小岛! 在这里§r<center>",
+  "§r§eThis is your island! The SkyBlock§r": "§r§e这是你的小岛！在这里§r<center>",
   "§r§euniverse has many lands to discover,§r": "§r§e有很多岛屿需要你去探索,§r<center>",
   "§r§esecrets to uncover, and people to meet.§r": "§r§e有很多秘密需要你去发现,还有和这儿的人们对话§r<center>",
   "§r§eCollect resources, craft items, and§r": "§r§e收集资源 制作物品§r<center>",
@@ -69,6 +69,7 @@
   "§e[NPC] Felix§f: §rStore items in this chest and access them at any time!§r":"§e[NPC] Felix§f：将物品存放在这个箱子里并可以随时打开！",
   "§e[NPC] Andrew§f: §rThis game is still under heavy development, don’t forget to check the §r§aforums§r§f often for updates!§r":"§e[NPC] Andrew§f：这个游戏仍处于重大发展阶段，不要忘记经常检查§r§a论坛§r§f以查看更新！",
   "§e[NPC] Andrew§f: §rIf you find a bug or exploit, remember to report it on the §r§aforums§r§f!§r":"§e[NPC] Andrew§f：§r如果您发现了错误或漏洞，请记得报告在§r§a论坛§r§f上！",
+  "§e[NPC] Walter§f: §rWith the right tools, you can get through anything!":"§e[NPC] Walter§f：选择正确的工具，你就可以铲除任何障碍！",
   
   "§aYou have just received ":"§a你刚刚收到了",
   " coins §r§aas bank interest!§r":"§6硬币§a的银行利息！",
@@ -172,7 +173,7 @@
   "§9☣ Crit Chance":"§9☣ 暴击几率",
   "§9☠ Crit Damage":"§9☠ 暴击伤害",
   "§b✎ Intelligence":"§b✎ 法力",
-  "§7§eClick to view your profile!":"§7§e点击浏览你的信息!",
+  "§7§eClick to view your profile!":"§7§e点击浏览你的信息！",
 
   "§aYour SkyBlock Profile":"§a你的空岛生存信息",
   "My Profile":"我的信息",
@@ -182,8 +183,9 @@
 
   "§7View upcoming events in":"§7浏览即将到来的活动",
 
-  "§7Next Event:":"§7下一个活动",
-  "§7Starting in":"§7还剩",
+  "§7Next Event: ":"§7下一个活动：",
+  "§7Starting in":"§7还剩：",
+  "§7还剩： §e<value>d <value>h <value>m <value>s":"§7还剩：§e<target>(1)天<target>(2)小时<target>(3)分钟<target>(4)秒",
 
   "§aUpcoming Events":"§a活动预告",
   "§7Store global items that you want":"§7在任何时间存储任何你",
@@ -201,7 +203,7 @@
   "§aMy Hypixel Profile":"§a我的Hypixel信息",
 
   "§7A useful bag which can hold":"§7这个鱼饵包可以装下",
-  "§7all types of fish and bait!":"§7任何种类的鱼及鱼饵!",
+  "§7all types of fish and bait!":"§7任何种类的鱼及鱼饵！",
 
   "§aFishing Bag":"§a鱼饵包",
   "§7A masterfully crafted":"§7这是一个精致的箭袋它可以",
@@ -244,15 +246,19 @@
 
 
   "§aPotion Bag":"§a药水袋",
-  "§7A special bag which can":"§7这是可以装下",
-  "§7hold Talismans, Rings,":"§7护身符，戒指，宝物……的一个特别的背包",
-  "§7Artifacts and Orbs within":"§7的袋子",
+  "§7A special bag which can":"§7这是可以装下护身符，戒指，",
+  "§7hold Talismans, Rings,":"§7宝物……的一个特别的袋子",
+  "§7Artifacts and Orbs within":"<remove>",
   "§7it. All will still work":"<remove>",
   "§7while in this bag!":"<remove>",
   "§8Progress:":"§8进展：",
   "§eClick to view rewards!":"§e点击以浏览奖励！",
+  
+  "§7View the SkyBlock Calendar,":"§7浏览空岛生存日历，即将到来的活动",
+  "§7upcoming events, and event":"§7以及活动给予的奖励！",
+  "§7rewards!":"<remove>",
 
-  "§aTalisman Bag":"§a护身符包",
+  "§aAccessory Bag":"§a饰品袋",
 
   "§9Luck of the Sea":"§9海之眷顾",
   "§9Cleave":"§9横扫之刃",
@@ -341,6 +347,8 @@
   "§e§7rewards on Hypixel.":"<remove>",
   "§7Happened in ":"§7进行于",
   "§fLast tournament: §b":"§f最后一场锦标赛：§b",
+  "§fUpcoming: ":"§f即将到来：",
+  "§fDate: ":"§f日期：",
 
   "§a<value> §d§l<value> UPDATE LIVE!":"§a空岛生存 §d§l<target>(1)更新已推出！",
   "§aThe Hypixel Pit ":"§a天坑乱斗",
@@ -780,7 +788,7 @@
   "§r§cYour 极限聚焦 has worn off.§r":"§c你的极限聚集增益效果已使用。",
   "§r§cYour last Extreme Focus buff hasn't worn off yet!§r":"§c你的上个极限聚集增益效果还没有使用！",
   "§r§cYour Extreme Focus has worn off.§r":"§c你的极限聚集增益效果已使用。",
-  "§7To SkyBlock":"§7返回SkyBlock菜单",
+  "§7To SkyBlock Menu":"§7返回SkyBlock菜单",
   "§7Players: ":"§7玩家数：",
   "§8Server: ":"§8服务器：",
   "§a空岛生存Hub ":"§a空岛生存主大厅",
@@ -936,7 +944,7 @@
   "§fWatchdog has banned §r§c§l<value>§r§f players in the last 7 days.":"看门狗在过去的七天中已经封禁了§r§c§l<target>(0)§r§f名玩家。",
   "Staff have banned an additional ":"志愿者及管理员在过去的七天中已经额外封禁了",
   " in the last 7 days.":"§f名玩家。",
-  "§cThis Minion does not have any items stored!":"§c这个仆从背包中没有存储任何物品！",
+  "§cThis Minion does not have any items stored!":"§c这个仆从存储中没有任何物品！",
   "§cBlacklisted modifications are a bannable offense!":"§c使用列入黑名单的修改内容是可被封禁的一种！",
   "§l§cSALE":"§l§c出售",
   " §8(§4COMING SOON§8)":"§8（§4即将推出§8）",
@@ -1237,6 +1245,9 @@
   "§fMagma Cream":"§f岩浆膏",
   "§fGhast Tear":"§f恶魂之泪",
   "§fEnder Pearl":"§f末影珍珠",
+  "§9Superboom TNT":"§9超级炸药",
+ 
+  "§7Breaks weak walls.":"§7炸穿薄弱的墙体。",
  
   "Collect more <value> to progress through your Collection and unlock rewards!":"收集更多的<target>(0)来积累你的收集并解锁奖励！",
   "Search results: <value>":"搜索结果: <target>(0)",
@@ -1245,10 +1256,14 @@
   "Search for items in the current category":"在当前物品分类中进行搜索",
   "Item Categories":"物品类别",
   "[skip]":"[跳过]",
+  "§aGo Back":"§a返回",
+  "§7To Walter":"§7至Walter",
   
   
   "§7Channel your inner Jerry.":"§7召唤你内心深处的那个Jerry，聆听自然的呼唤，神灵的感召。然后发出Hmmm的声音扰民。",
-
+  "§dYou have already found that Fairy Soul!":"§d你已经找到了这个仙女之魂！",
+  "§d§lSOUL! §fYou found a §r§dFairy Soul§r§f!":"§d§l仙女之魂！§f你发现了一个§d仙女之魂§f！",
+  "§cCannot use this item here!":"§c不能在这里使用此物品！",
   
   "§dNew Year's Cake":"§d新年蛋糕",
   "§7To celebrate the end of the":"§7为了庆祝一年的落幕，",
