@@ -1,6 +1,6 @@
 # SkyBlock 翻译 mod - 翻译文本
 
-selfsbtrans.json为 [Skyblock 翻译(sbtrans)mod](https://github.com/wysb233/sbtrans) 所使用的云端翻译文文件。  
+selfsbtrans.json为 [SkyBlock 翻译(sbtrans)mod](https://github.com/wysb233/sbtrans) 所使用的云端翻译文文件。  
 部分翻译文本参考自[《空岛生存译名标准化》文档](https://docs.qq.com/sheet/DYWJ1bUlwdFNJY0VG?c=A1A0A0)    
 官方翻译文本来自[Hypixel在Crowdin上的翻译项目](https://crowdin.com/translate/hypixel/286/en-zhcn)
 -
