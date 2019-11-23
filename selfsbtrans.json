@@ -60,9 +60,9 @@
   "§f: §rThe higher your §c<value>§r stat, the faster your health will regenerate!§r":"§e[NPC] Jack§f：你的§c❤ 血量§f数值越高，你回血速度也会更快！",
   "§f: §rIncreasing your Enchanting and Alchemy Skill Levels will permanently boost your §b<value>§r.§r":"§e[NPC] Jack§f：提高你的附魔和酿造技能等级将会永久地提升你的§b✎ 法力§f。",
   "§f: §r§b✎ <value> §rincreases your §bMana §rand your magic damage!§r":"§e[NPC] Jack§f：§b✎ 法力§r可以增长你的§b法力值§r以及你的魔法伤害！",
-  "§e[NPC] Jack§f: §rIncreasing your Foraging Skill Level will permanently boost your §c❁ <value>§r.§r":"§e[NPC] Jack§f：提高你的伐木技巧等级将会永久地提升你的§c❁ 力量§f。",
+  "§e[NPC] Jack§f: §rIncreasing your Foraging Skill Level will permanently boost your §c❁ <value>§r.§r":"§e[NPC] Jack§f：提高你的林业技巧等级将会永久地提升你的§c❁ 力量§f。",
   "§e[NPC] Jack§f: §rIncreasing your Combat Skill Level will permanently boost your §9☣ <value>§r.§r":"§e[NPC] Jack§f：提高你的战斗技巧等级将会永久地提升你的§9☣ 暴击几率§f。",
-  "§e[NPC] Jack§f: §rIncreasing your Mining Skill Level will permanently boost your §a❈ <value>§r.§r":"§e[NPC] Jack§f：提高你的采矿技巧等级将会永久地提升你的§a❈ 防御§f。",
+  "§e[NPC] Jack§f: §rIncreasing your Mining Skill Level will permanently boost your §a❈ <value>§r.§r":"§e[NPC] Jack§f：提高你的挖矿技巧等级将会永久地提升你的§a❈ 防御§f。",
   "§e[NPC] Jack§f: §rIncreasing your Farming and Fishing Skill Levels will permanently boost your §c❤ <value>§r.§r":"§e[NPC] Jack§f：提高你的农业及钓鱼技巧等级将会永久地提升你的§c❤ 血量§f。",
   "§e[NPC] Felix§f: §rYou can upgrade your §r§a<value>§r§f storage through your §r§a<value>§r§f.§r":"§e[NPC] Felix§f：你可以通过§r§a黑曜石收集项§r以升级你的§r§a末影箱§r容量。",
   "§e[NPC] Felix§f: §rYou can access your §r§a<value>§r§f in your  §r§a<value>§r§f.§r":"§e[NPC] Felix§f：您可以在§r§a空岛生存菜单§r中打开§r§a末影箱§r§f。",
@@ -961,8 +961,8 @@
   "§aCombat":"§a战斗",
   "§7View your Combat Collection!":"§7查看你所有的战斗收集！",
   "§7View all of the Combat Recipes":"§7查看所有你已解锁的战斗配方！",
-  "§a伐木 Collection":"§a伐木收集项",
-  "§a伐木 Recipes":"§a伐木衍生物品配方",
+  "§a林业 Collection":"§a林业收集项",
+  "§a林业 Recipes":"§a林业衍生物品配方",
   "§aForaging":"§a林业",
   "§7View your Foraging Collection!":"§7查看你所有的林业收集！",
   "§7View all of the Foraging Recipes":"§7查看所有你已解锁的林业配方！",
@@ -990,7 +990,7 @@
   "§eFarmhand":"§e农场工",
   "§eSpelunker":"§e洞穴探险爱好者",
   "§eWarrior":"§e战士",
-  "§eLogger":"§e伐木工",
+  "§eLogger":"§e林业工",
   "§eConjurer":"§e附魔师",
   "§eBrewer":"§e酿造师",
   
@@ -1217,7 +1217,7 @@
   "Village Affinity Talisman":"村庄护符",
   "Whale Bait":"鲸鱼鱼饵",
   "Wood Affinity Talisman":"森林护符",
-  "Woodcutting Crystal":"伐木水晶",
+  "Woodcutting Crystal":"林业水晶",
   "Zombie Talisman":"僵尸护符",
   "Zombie's Heart":"僵尸之心",
   "§f史莱姆方块":"§f粘液块",
@@ -1248,12 +1248,10 @@
   "search!":"搜索！",
   "Search through all items":"在所有物品中进行搜索",
   "Search for items in the current category":"在当前物品分类中进行搜索",
-  "Item Categories":"物品类别",
   "[skip]":"[跳过]",
   "§aGo Back":"§a返回",
   "§7To Walter":"§7至Walter",
-  
-  
+
   "§7Channel your inner Jerry.":"§7召唤你内心深处的那个Jerry，聆听自然的呼唤，神灵的感召。然后发出Hmmm的声音扰民。",
   "§dYou have already found that Fairy Soul!":"§d你已经找到了这个仙女之魂！",
   "§d§lSOUL! §fYou found a §r§dFairy Soul§r§f!":"§d§l仙女之魂！§f你发现了一个§d仙女之魂§f！",
@@ -1330,12 +1328,5 @@
   "§r§e§l)§r":"§e§l）",
   "§e§lFind all of them to earn an §r§b§lawesome reward§r§e§l!§r":"§e§l找到它们所有以获取一个§b§l很棒的奖励§e§l！",
   "§cYou already found this Candy Basket!":"§c你已经找到过这个糖果篮了！"
-  
- 
-  
 
-
-
-
- 
 }
